@@ -9917,5 +9917,12 @@
     "author": "vkostyanetsky",
     "description": "Intermittent fasting tracker.",
     "repo": "vkostyanetsky/ObsidianFastimer"
+  },
+  {
+     "id": "inline-admonitions",
+    "name": "Inline Admonitions",
+    "author": "Scott Tomaszewski",
+    "description": "Inline callouts to make text pop.",
+    "repo": "scottTomaszewski/obsidian-inline-admonitions"
   }
 ]
